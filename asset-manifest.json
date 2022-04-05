@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student/static/css/main.feedda14.css",
+    "main.js": "/Student/static/js/main.1572cc42.js",
+    "index.html": "/Student/index.html",
+    "main.feedda14.css.map": "/Student/static/css/main.feedda14.css.map",
+    "main.1572cc42.js.map": "/Student/static/js/main.1572cc42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feedda14.css",
+    "static/js/main.1572cc42.js"
+  ]
+}
